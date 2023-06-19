@@ -3,7 +3,7 @@ import random
 import time
 random.seed(time.process_time())
 # response list
-welcome = 'Welcome to the Magic 8-ball.\n'
+welcome = 'Welcome to the Magic 9-ball.\n'
 thanks = '  Thank you for playing!\n'
 details = '  Created by @linksauce_1. Copyright 2023.\n'
 r1 = '  Keep your head up!\n'
